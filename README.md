@@ -6,4 +6,4 @@
 
 ![](https://1drv.ms/u/s!At49W9LBxFG6d5wNTq_rHqJ8ddE?e=mtVUyK)
 
-Personal resolution of the problems proposed in the book.
+Personal solving of the problems proposed in the book.
